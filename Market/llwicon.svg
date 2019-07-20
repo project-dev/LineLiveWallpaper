@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="llwicon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3210">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3212" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3214" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3165">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3167" />
+      <stop
+         style="stop-color:#a4a4a4;stop-opacity:1;"
+         offset="1"
+         id="stop3169" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3165"
+       id="linearGradient3171"
+       x1="237.14285"
+       y1="-1.9235322"
+       x2="234.28572"
+       y2="592.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3210"
+       id="linearGradient3216"
+       x1="252.85715"
+       y1="575.2193"
+       x2="252.85715"
+       y2="420.93362"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.2857139,15.714284)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3165"
+       id="linearGradient3224"
+       x1="237.14285"
+       y1="-1.9235322"
+       x2="234.28572"
+       y2="592.36218"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="153.74259"
+     inkscape:cy="591.02604"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3171);fill-opacity:1;stroke:url(#linearGradient3224);stroke-width:22.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2393"
+       width="511.15558"
+       height="511.15558"
+       x="-10.877682"
+       y="40.244511"
+       inkscape:export-filename="C:\Users\taka\Desktop\icon.png"
+       inkscape:export-xdpi="86.347824"
+       inkscape:export-ydpi="86.347824" />
+    <g
+       id="g3191"
+       transform="translate(-49.999997,-22.857144)"
+       inkscape:export-filename="C:\Users\taka\Desktop\icon.png"
+       inkscape:export-xdpi="86.347824"
+       inkscape:export-ydpi="86.347824">
+      <path
+         id="path3185"
+         d="M 154.28571,79.505039 L 452.85714,125.21932 L 370,508.07647 L 152.85714,379.50504 L 154.28571,79.505039 z"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3187"
+         d="M 128.57142,96.647894 L 427.14285,142.36218 L 344.28571,525.21932 L 127.14285,396.64789 L 128.57142,96.647894 z"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3189"
+         d="M 99.999996,113.79075 L 398.57143,159.50503 L 315.71429,542.36219 L 98.571426,413.79076 L 99.999996,113.79075 z"
+         style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3196"
+       transform="translate(7.1428599,1.428571)"
+       inkscape:export-filename="C:\Users\taka\Desktop\icon.png"
+       inkscape:export-xdpi="86.347824"
+       inkscape:export-ydpi="86.347824">
+      <path
+         id="path3179"
+         d="M 27.142857,115.21932 L 341.42857,425.21932 L 414.28571,328.07646 L 75.714284,99.505044 L 27.142857,115.21932 z"
+         style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3181"
+         d="M 53.571428,119.50503 L 367.85714,429.50503 L 440.71428,332.36217 L 102.14285,103.79075 L 53.571428,119.50503 z"
+         style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3183"
+         d="M 83.571424,126.64789 L 397.85714,436.64789 L 470.71428,339.50503 L 132.14285,110.93361 L 83.571424,126.64789 z"
+         style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3201"
+       transform="translate(38.571431,-50)"
+       inkscape:export-filename="C:\Users\taka\Desktop\icon.png"
+       inkscape:export-xdpi="86.347824"
+       inkscape:export-ydpi="86.347824">
+      <path
+         id="path3173"
+         d="M 358.57143,145.21933 L 9.9999995,272.36219 L 118.57143,506.6479 L 367.14286,290.93362 L 358.57143,145.21933 z"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3175"
+         d="M 387.14286,155.93362 L 38.571429,283.07647 L 147.14286,517.36218 L 395.71429,301.6479 L 387.14286,155.93362 z"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3177"
+         d="M 421.42858,168.79076 L 72.857139,295.93362 L 181.42858,530.21933 L 430.00001,314.50505 L 421.42858,168.79076 z"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3216);fill-opacity:1;stroke:#ffffff;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Impact;-inkscape-font-specification:Impact"
+       x="47.142853"
+       y="549.50507"
+       id="text3206"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\taka\Desktop\icon.png"
+       inkscape:export-xdpi="86.347824"
+       inkscape:export-ydpi="86.347824"><tspan
+         sodipodi:role="line"
+         id="tspan3208"
+         x="47.142853"
+         y="549.50507"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3216);fill-opacity:1;stroke:#ffffff;stroke-width:2.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Impact;-inkscape-font-specification:Impact">Line Live Wallpaper</tspan></text>
+  </g>
+</svg>

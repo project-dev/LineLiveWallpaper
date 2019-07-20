@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestAppli!</string>
+    <string name="app_name">Line Live Wallpaper</string>
+    <string name="description">ライン壁紙</string>
+    <string name="author">Project D.E.V</string>
+</resources>
